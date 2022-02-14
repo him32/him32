@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @him32
 - 👀 I’m interested in .learning new things..
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Core JAVA
 - 💞️ I’m looking to collaborate on SOFTWARE DEVELOPMENT
 - 📫 How to reach me
 
